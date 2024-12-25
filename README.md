@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3662d0ba-3010-4693-94ff-4dcec45d8e15)
+![image](https://github.com/user-attachments/assets/74d0bf7a-a44f-4bd6-9fd4-84db1a223dbb)
 
 
 # Morrowind-Memory-Editor
